@@ -1,0 +1,26 @@
+{
+  "name": "7_augbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "chalk": "^4.1.2",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.2",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.37",
+    "pino": "^8.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.31.1",
+    "wa-sticker-formatter": "^4.3.2"
+  }
+}
